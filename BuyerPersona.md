@@ -10,4 +10,4 @@ Susana Molina, Edad 35 años, Directiva en importante empresa de moda. Susana es
 
 **Necesidades:** Tiempo. Poder. Servicios y productos eficaces y competentes.
 
-![Buyer Persona - Anzgal]()
+![Buyer Persona - Anzgal](https://github.com/Anzgal/LaunchXFrontIntro/blob/main/BuyerPersona.png)
