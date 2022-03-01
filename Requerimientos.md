@@ -16,7 +16,7 @@ Descripción:
 
 1.	Flujo completo de registro y autenticación
 2.	Formulario de solicitud de demanda legal
-3.	Genración automática del archivo word
-4.	Pasarela de pago
+3.	Pasarela de pago
+4.	Generación automática del archivo word
 5.	Interfaz para los usuarios con actualizaciones de sus casos
 6.	Dashboard para los administradores con gráficas e información de pagos, lista de casos con estatus, pantalla para actualizar los casos, agregar comentarios o solicitar nuevos pagos
